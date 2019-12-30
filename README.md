@@ -9,16 +9,16 @@
 
 -->
 
-# Project name here
+# Welcome to  CS_Adventure
 
-> Summary description here.
+> Dijon's Adventures in CS
 
 
 This file will become your README and also the index of your documentation.
 
 ## Install
 
-`pip install your_project_name`
+`pip install cs_adventure`
 
 ## How to use
 
@@ -26,7 +26,7 @@ Fill me in please! Don't forget code examples:
 <div class="codecell" markdown="1">
 <div class="input_area" markdown="1">
 
-```
+```python
 1+1
 ```
 
@@ -37,6 +37,26 @@ Fill me in please! Don't forget code examples:
 
 
     2
+
+
+
+</div>
+
+</div>
+<div class="codecell" markdown="1">
+<div class="input_area" markdown="1">
+
+```python
+say_hello("Dijon Kock")
+```
+
+</div>
+<div class="output_area" markdown="1">
+
+
+
+
+    'Hello Dijon Kock!'
 
 
 
